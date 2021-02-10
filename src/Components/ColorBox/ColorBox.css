@@ -1,0 +1,15 @@
+.ColorBox{
+    width: 10%;
+    height: 200px;
+    text-align: center;
+    padding: 10px;
+    background-color: blueviolet;
+}
+
+.ColorBox p{
+    padding: 10px;
+    color:white;
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}

@@ -1,0 +1,33 @@
+.FormBox{
+    width: 100%;
+    display:inline-block;
+}
+.color-box{
+    width: 100%;
+    height: auto;
+    display: inline-flex;
+}
+
+.color-container{
+    width: 40%;
+    height: auto;
+    display: inline;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+button{
+    display: block;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #d42222;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
